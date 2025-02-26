@@ -5,12 +5,12 @@
   "keywords": [
     "telegram",
     "userbot",
-    "OldUserBot",
+        "OldUserBot",
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/vusalold/OldUserbot",
+  "repository": "https://github.com/vusalold/OldUserBot",
   "Əlaqə": "https://t.me/Vu7o1",
   "success_url": "https://t.me/OldUserBotSupports",
   "stack": "container",
