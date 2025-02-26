@@ -15,7 +15,7 @@
 
 ## Quraşdırma
 ### Sadə Yöntəm
-Əgər botu quraşdırmaq haqqında məlumatınız yoxdursa, buranı oxuyun: [Quraşdırma Bələdçisi](https://github.com/vusalold/OldUserBot/blob/main/README.md)
+Əgər botu quraşdırmaq haqqında məlumatınız yoxdursa, buranı oxuyun: [Quraşdırma Bələdçisi](https://t.me/OldUserBotSupports)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vusalold/OldUserBot/)
 ### Çətin Yöntəm
