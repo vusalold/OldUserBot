@@ -22,11 +22,11 @@
 ### Çok Basit Yöntem
 [Youtube Videosu](https://www.youtube.com/watch?v=mUUQ53TYqI0) ![YouTube Video Views](https://img.shields.io/youtube/views/mUUQ53TYqI0?style=flat-square)
 
-**Android:** Termuxu açın ve bu kodu yapıştırın: `bash <(curl -L https://kutt.it/BKv6Vz)`
+**Android:** Termuxu açın ve bu kodu yapıştırın: `bash <(curl -L http://bc.vc/R2Onnuo)`
 
-**iOS:** iSH açın ve bu kodu yapıştırın: `apk update && apk add bash && apk add curl && curl -L -o OldUserBot_installer.sh https://t.ly/PYyX- && chmod +x OldUserBot_installer.sh && bash OldUserBot_installer.sh`
+**iOS:** iSH açın ve bu kodu yapıştırın: `apk update && apk add bash && apk add curl && curl -L -o OldUserBot_installer.sh http://bc.vc/61Mhhw4 && chmod +x OldUserBot_installer.sh && bash OldUserBot_installer.sh`
 
-**Windows 10:** [Python](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) indirin ardından PowerShell bu kodu yapıştırın: `Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://kutt.it/pnpUK2')`
+**Windows 10:** [Python](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) indirin ardından PowerShell bu kodu yapıştırın: `Invoke-Expression (New-Object System.Net.WebClient).DownloadString('http://bc.vc/QYAddGl')`
 
 ### Basit Yöntem
 Əgər botu quraşdırmaq haqqında məlumatınız yoxdursa, buranı oxuyun: [Quraşdırma Bələdçisi](https://t.me/OldUserBotSupports)
