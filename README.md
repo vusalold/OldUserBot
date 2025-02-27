@@ -22,7 +22,7 @@
 ### Çok Basit Yöntem
 [Youtube Videosu](https://www.youtube.com/watch?v=mUUQ53TYqI0) ![YouTube Video Views](https://img.shields.io/youtube/views/mUUQ53TYqI0?style=flat-square)
 
-**Android:** Termuxu açın ve bu kodu yapıştırın: `bash <(curl -L https://kutt.it/VRUVdx)`
+**Android:** Termuxu açın ve bu kodu yapıştırın: `bash <(curl -L https://kutt.it/6mEbyG)`
 
 **iOS:** iSH açın ve bu kodu yapıştırın: `apk update && apk add bash && apk add curl && curl -L -o OldUserBot_installer.sh https://t.ly/PYyX- && chmod +x OldUserBot_installer.sh && bash OldUserBot_installer.sh`
 
