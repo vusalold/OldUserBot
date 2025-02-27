@@ -17,7 +17,7 @@
 ### Sadə Yöntəm
 Əgər botu quraşdırmaq haqqında məlumatınız yoxdursa, buranı oxuyun: [Quraşdırma Bələdçisi](https://t.me/OldUserBotSupports)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vusalold/OldUserBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vusalold/OldUserBot/blob/main/app.json)
 ### Çətin Yöntəm
 ```python
 git clone https://github.com/vusalold/OldUserBot.git
