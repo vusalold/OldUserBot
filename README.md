@@ -26,7 +26,7 @@
 
 **iOS:** iSH açın ve bu kodu yapıştırın: `apk update && apk add bash && apk add curl && curl -L -o OldUserBot_installer.sh https://t.ly/PYyX- && chmod +x OldUserBot_installer.sh && bash OldUserBot_installer.sh`
 
-**Windows 10:** [Python](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) indirin ardından PowerShell bu kodu yapıştırın: `Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://kutt.it/5rRTCd')`
+**Windows 10:** [Python](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) indirin ardından PowerShell bu kodu yapıştırın: `Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://kutt.it/8NHWTN')`
 
 ### Basit Yöntem
 Əgər botu quraşdırmaq haqqında məlumatınız yoxdursa, buranı oxuyun: [Quraşdırma Bələdçisi](https://t.me/OldUserBotSupports)
